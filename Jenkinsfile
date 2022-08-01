@@ -27,7 +27,7 @@ pipeline {
 
       when {
 
-        branch "source1"
+        branch "master"
 
       }
 
